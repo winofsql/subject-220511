@@ -16,4 +16,4 @@ RewriteRule ^ http://%1%{REQUEST_URI} [L,R=301]
 ```
 
 ## WinMarge( 改行コードを比較しない ) 
-![image](https://user-images.githubusercontent.com/1501327/167749491-232323dc-a90e-481a-b36e-71efb73c6d9d.png)
+![image](https://user-images.githubusercontent.com/1501327/167749597-1aaab791-0239-4c59-a2a9-e3f32e76e981.png)
